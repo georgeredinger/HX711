@@ -1,4 +1,9 @@
-
+/*
+ * Hx711.cpp
+ *
+ *  Created on: Oct 31, 2012
+ *      Author: agu
+ */
 
 #include "HX711.h"
 

@@ -51,6 +51,6 @@ void loop() {
   lcd.print("       ");
   Serial.print(duration);Serial.print(",");Serial.println(grams);
 
-  //delay(200);
+  delay(200);
 }
 
